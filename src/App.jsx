@@ -7,10 +7,10 @@ import Parallax from './components/Parallax'
 function App() {
 
   return (
-    <>
+    <section className='grid '>
       <Header />
       <Parallax />
-    </>
+    </section>
   )
 }
 
